@@ -1,4 +1,4 @@
-# Product Polymorphism (Java)
+## Product Polymorphism (Java)
 
 Simple Java console application demonstrating OOP concepts:
 - Inheritance
@@ -15,6 +15,11 @@ PRICE TAGS:
 Notebook $ 1100.00
 Tablet $ 400.00 (Customs fee: 20.00)
 iPhone (used) $ 400.00 (Manufacture date: 15/03/2017)
+
+## How to run
+1. Compile the project
+2. Run Program.java
+3. Enter product data via console
 
 ## 👨‍💻 Tech
 - Java

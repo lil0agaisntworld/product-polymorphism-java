@@ -16,6 +16,6 @@ Notebook $ 1100.00
 Tablet $ 400.00 (Customs fee: 20.00)
 iPhone (used) $ 400.00 (Manufacture date: 15/03/2017)
 
-## 🛠 Tech
+## 👨‍💻 Tech
 - Java
 - OOP
